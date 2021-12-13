@@ -37,3 +37,4 @@ Podemos fazer a junção dos 2 estilos:
 - ### Aqui tem alguns links que possuem muitos outros exemplos:
 1. [MarkdownGuide](https://www.markdownguide.org/cheat-sheet)
 2. [GitHub](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+3. [Exemplo de Markdown](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
