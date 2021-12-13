@@ -1,5 +1,5 @@
 # ***README.md***
-- ### Um arquivo README é um documento importante texto que contém informações sobre a instalação ou utilização de uma determinada atualização do programa de software ou software. Pode ser incluído em um programa de instalação de software ou aplicativo. **Aqui temos alguns comandos:**
+- ### Um arquivo README é um documento texto importante que contém informações sobre a instalação ou utilização de uma determinada atualização do programa de software ou software. Pode ser incluído em um programa de instalação de software ou aplicativo. **Aqui temos alguns comandos:**
 
 ## ***Hashtags***
 ---
@@ -17,9 +17,9 @@ Quanto mais Hashtags, menor o tamanho fica:
 
 ## ***Lista ordenada***
 ---
-### 1. Primeiro item
-### 2. Segundo item
-### 3. Terceiro item
+#### 1. Primeiro item
+#### 2. Segundo item
+#### 3. Terceiro item
 
 ## ***Estilo da fonte***
 ---
